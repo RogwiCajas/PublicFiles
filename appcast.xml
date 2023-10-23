@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>GDN updates</title>
+    <item>
+      <title>Version 4.0</title>
+      <description>Neuva version con correccion de bugs.</description>
+      <pubDate>2023-11-16 12:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>2.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://example.com/app_4.0.apk" sparkle:version="2.0" sparkle:shortVersionString="2.0" length="12345678" type="application/vnd.android.package-archive"/>
+    </item>
+    <!-- Add more update items as needed -->
+  </channel>
+  <channel>
+      <title>GDN updates</title>
+      <item>
+         <title>Version 4.0</title>
+         <description>Cleveland Clinic Patient App</description>
+         <pubDate>2023-11-16 12:00:00 +0000</pubDate>
+         <enclosure url="https://example.com/app_4.0.ipa" sparkle:version="1.15.0" sparkle:os="iOS" />
+      </item>
+   </channel>
+</rss>
