@@ -4,7 +4,7 @@
     <title>GDN updates</title>
     <item>
       <title>Version 2.0.0</title>
-      <description>Nueva version con correccion de Bugs para android</description>
+      <description>Nueva version con correccion de Bugs para android(test)</description>
       <pubDate>2023-11-16 12:00:00 +0000</pubDate>
       <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
       <enclosure url="https://example.com/app_2.0.apk" sparkle:version="2.0.0" sparkle:shortVersionString="2.0" length="12345678" type="application/vnd.android.package-archive" sparkle:os="android"/>
