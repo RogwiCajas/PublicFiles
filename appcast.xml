@@ -3,18 +3,18 @@
   <channel>
     <title>GDN updates</title>
     <item>
-      <title>Version 2.0.0</title>
+      <title>Version 1.0.0</title>
       <description>Nueva version con correccion de Bugs para android(test)</description>
       <pubDate>2023-11-16 12:00:00 +0000</pubDate>
-      <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://infocorporativo.tia.com.ec/tia-interno-app/tia-store" sparkle:version="2.0.0" sparkle:shortVersionString="2.0" length="12345678" type="application/vnd.android.package-archive" sparkle:os="android"/>
+      <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://infocorporativo.tia.com.ec/tia-interno-app/tia-store" sparkle:version="1.0.0" sparkle:shortVersionString="1.0" length="12345678" type="application/vnd.android.package-archive" sparkle:os="android"/>
     </item>
     <!-- Add more update items as needed -->
     <item>
-         <title>Version 2.0.0</title>
+         <title>Version 1.0.0</title>
          <description>Nueva version con correccion de Bugs para ios</description>
          <pubDate>2023-11-16 12:00:00 +0000</pubDate>
-         <enclosure url="https://infocorporativo.tia.com.ec/tia-interno-app/tia-store" sparkle:version="2.0.0" sparkle:os="iOS" />
+         <enclosure url="https://infocorporativo.tia.com.ec/tia-interno-app/tia-store" sparkle:version="1.0.0" sparkle:os="iOS" />
       </item>
   </channel>
   
