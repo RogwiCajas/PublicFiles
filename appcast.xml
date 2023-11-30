@@ -14,7 +14,7 @@
          <title>Version 2.0.0</title>
          <description>Nueva version con correccion de Bugs para ios test</description>
          <pubDate>2023-11-16 12:00:00 +0000</pubDate>
-         <enclosure url="https://infocorporativo.tia.com.ec/sites/almacenestia.com/files/ipa/tiainternoi.plis" sparkle:version="2.0.0" sparkle:os="iOS" />
+         <enclosure url="https://infocorporativo.tia.com.ec/sites/almacenestia.com/files/ipa/tiainternoi.plist" sparkle:version="2.0.0" sparkle:os="iOS" />
       </item>
   </channel>
   
